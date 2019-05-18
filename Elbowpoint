@@ -1,0 +1,2 @@
+# KMeans ScikitLearn - Elbowpoint
+Implemented code to find elbowpoint by computing Sum Squared Errors for a specified range of k values for k-clusters.
