@@ -5,7 +5,7 @@ Implement Kmeans clustering using scikitlearn on the California housing price da
 1) numpy
 2) pandas
 3) scikitlearn
-4) matplotlib
+4) matplotlib (seaborn for heatmap)
 
 ## Files
 1) Clustering - Binary Clustering
